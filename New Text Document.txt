@@ -1,0 +1,12 @@
+-> This calculator makes you calculation very easy.
+-> This calculator based on Python program.
+-> Following calculation you can do with this calculator.
+   1. Addition
+   2. Subtraction
+   3. Multiplication
+   4. Divide
+   5. Square
+   6. Cube
+   7. Modulus or Absolute Function
+   8. Factorial
+   9. Simple Interest
